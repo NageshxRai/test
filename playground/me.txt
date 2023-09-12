@@ -1,5 +1,0 @@
-{{#NageshxRai}}
-Name: Nagesh
-Skills: HTML, CSS, JS, ReactJs, Git & version control, Next.js
-Email: Nagacexrai710@gmail.com
-{{/NageshxRai}}
